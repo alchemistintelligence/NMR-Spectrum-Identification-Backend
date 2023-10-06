@@ -1,0 +1,40 @@
+##TITLE= Audit trail, TopSpin 3.5 pl 6
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= root
+$$ //N9EBE4BSAYSPB7B/nmrData/zhangzhm/Zhi-Ming Zhang/0914XJ#1/1/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2021-09-14 08:53:39.618 +0800>,<root>,<PC_workstation>,<go4>,<TopSpin 3.5.6>,
+      <created by zg
+	started at 2021-09-14 08:52:05.425 +0800,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       E0 D3 96 8B 78 47 74 7D 3B 91 F3 9C 1A 08 A5 06
+       data hash MD5: 64K
+       5B 23 54 A4 76 5A DB 34 A0 41 56 E3 7A 5B AD E8>)
+(   2,<2021-09-14 08:53:39.649 +0800>,<root>,<PC_workstation>,<audit>,<TopSpin 3.5.6>,
+      <user comment:
+       ICON-NMR User ID: Zhi-Ming Zhang
+       data hash MD5: 64K
+       5B 23 54 A4 76 5A DB 34 A0 41 56 E3 7A 5B AD E8>)
+(   3,<2021-09-14 08:53:41.069 +0800>,<root>,<PC_workstation>,<proc1d>,<TopSpin 3.5.6>,
+      <Start of raw data processing
+       ef LB = 0.3 FT_mod = 6 PKNL = 1 SI = 64K 
+       data hash MD5: 64K
+       E4 84 63 00 B8 74 AE 6A 17 41 D8 B5 F6 AA A1 10>)
+(   4,<2021-09-14 08:53:41.225 +0800>,<root>,<PC_workstation>,<proc1d>,<TopSpin 3.5.6>,
+      <apk 
+       data hash MD5: 64K
+       2A 76 8F B5 E1 5D EF 75 43 23 D7 9F 29 E9 22 65>)
+(   5,<2021-09-14 08:53:41.287 +0800>,<root>,<PC_workstation>,<proc1d>,<TopSpin 3.5.6>,
+      <abs ABSG = 5 
+       data hash MD5: 64K
+       85 7E 29 F5 03 8D 6D C4 06 00 FD 8F 32 13 AD 54>)
+(   6,<2021-09-14 08:53:42.145 +0800>,<root>,<PC_workstation>,<dirdata>,<TopSpin 3.5.6>,
+      <wrpa from 1 1 "0914XJ#1" "D:/Zhi-Ming Zhang"
+       data hash MD5: 64K
+       85 7E 29 F5 03 8D 6D C4 06 00 FD 8F 32 13 AD 54>)
+##END=
+
+$$ hash MD5
+$$ 6E 00 FA 25 E2 E6 65 C9 0E DE 68 96 6D C3 0E 1A
